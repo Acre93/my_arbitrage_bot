@@ -1,0 +1,2 @@
+timestamp,action,protocol,amount_btc,price_usd,balance_btc_after,pnl_usd,notes
+1743397095,open_short,some_derivatives_platform,0.01,28000.0,0.99,0.0,Paper trade
